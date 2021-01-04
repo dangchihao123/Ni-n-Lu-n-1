@@ -1,0 +1,47 @@
+
+
+********************* CHUONG TRING TIM DUONG DI NGAN NHAT *********************
+
+	 Giao vien:	 Trinh Minh Luong
+	 Nhom:		 19
+	 Thanh Vien
+			 1.Nguyen Trong Tiep	MSSV: 51220054	 Lop: 12250301
+			 2.Nguyen Hai Dang	MSSV: 51220008	 Lop: 12250301
+
+Cap cua ma tran vua duoc nap vao 5
+Ma Tran vua duoc nap vao co hinh dang nhu sau 
+
+	 0  	 10  	 0  	 5  	 0  
+	 0  	 0  	 1  	 3  	 0  
+	 0  	 0  	 0  	 0  	 6  
+	 0  	 2  	 9  	 0  	 2  
+	 7  	 0  	 4  	 0  	 0  
+
+Ngay gio tao file: Sat Dec 28 08:42:03 2013
+
+
+
+Duong dan tap tin: d:/dothi3.txt
+
+Dinh xuat phat: 1
+
+duong di tu 1 -> 0 co do dai la: 12
+Cac dinh di qua la : 1 -> 3 -> 4 -> 0
+
+
+duong di tu 1 -> 2 co do dai la: 1
+Cac dinh di qua la : 1 -> 2
+
+
+duong di tu 1 -> 3 co do dai la: 3
+Cac dinh di qua la : 1 -> 3
+
+
+duong di tu 1 -> 4 co do dai la: 5
+Cac dinh di qua la : 1 -> 3 -> 4
+
+
+Ban vua chon muc thuc hien thu 3 la thoat khoi chuong trinh....
+
+
+Ngay gio ghi vao file: Sat Dec 28 08:43:06 2013

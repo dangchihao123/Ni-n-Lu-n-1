@@ -1,0 +1,10 @@
+duong dan mac dinh D:/Nhom 19/
+
+trong phan cai dat co chua: 
+
+1. trong phan cai dat co chua file chay *.EXE
+2. chua thu muc Data Input bao gom : cac tap tin *.txt
+3. chua thu muc chuong trinh duoc bien soan bang ViSual C++ 2010 (duoc viet theo CLASS)
+4. chua tap tin *.CPP (duoc viet lai bang phan mem Borland C++).
+5. chua thu muc BAO CAO.
+6. chua thu muc MO PHONG CAC THUAT TOAN SAP XEP va MON HOC LY THUYET DO THI va DEMO CAY AVL (suu tam).
